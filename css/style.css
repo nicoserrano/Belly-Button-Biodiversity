@@ -6,4 +6,12 @@
     color:aliceblue
 }
 
+h2 .white-text {
+    color: aliceblue;
+}
+
+p .aliceblue-text {
+    color: aliceblue;
+}
+
 body {background-color: rgb(61, 68, 68);}
