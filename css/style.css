@@ -14,4 +14,7 @@ p .aliceblue-text {
     color: aliceblue;
 }
 
-body {background-color: rgb(61, 68, 68);}
+body {
+    background-color: rgb(61, 68, 68);
+    color: aliceblue;
+}
