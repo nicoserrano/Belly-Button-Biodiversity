@@ -6,15 +6,14 @@
     color:aliceblue
 }
 
-h2 .white-text {
+.white-text h2 {
     color: aliceblue;
 }
 
-p .aliceblue-text {
+.aliceblue-text p {
     color: aliceblue;
 }
 
 body {
     background-color: rgb(61, 59, 66);
-    color: aliceblue;
 }
