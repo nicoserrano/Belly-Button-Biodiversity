@@ -16,3 +16,5 @@ This project consisted on creating a dashboard that displayed information about 
 
 ## Results
 The final result was an interactive [dashboard](https://nicoserrano.github.io/Belly-Button-Biodiversity/) presented in a convinient way to end users through Github Pages. 
+
+![Screen Shot 2021-08-09 at 8 25 29 PM](https://user-images.githubusercontent.com/83378141/128790456-bd0d2a3d-b319-4039-a1aa-0470898e2eee.png)
